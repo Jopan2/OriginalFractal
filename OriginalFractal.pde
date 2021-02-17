@@ -10,7 +10,7 @@ public void ring(int x, int y, int len)
   if (len <20)
   {
     noFill();
-    stroke(255,0,0);
+    stroke(500,0,0);
     ellipse(x, y, 0, 0);
   }
   else
