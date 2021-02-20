@@ -1,7 +1,7 @@
 public void setup()
 {
   size(600,600);
-  background(0);
+  background(350);
   ring(300,300,180);
 }
 
